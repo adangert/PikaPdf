@@ -1,0 +1,26 @@
+{
+  "name": "PikaPdf",
+  "version": "0.0.0",
+  "description": "A fast efficient Pdf editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adangert/PikaPdf.git"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "author": "Aaron Angert",
+  "license": "all rights reserved",
+  "bugs": {
+    "url": "https://github.com/adangert/PikaPdf/issues"
+  },
+  "homepage": "https://github.com/adangert/PikaPdf",
+  "devDependencies": {
+    "electron": "^29.3.0"
+  }
+}
