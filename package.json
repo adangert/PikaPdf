@@ -22,5 +22,8 @@
   "homepage": "https://github.com/adangert/PikaPdf",
   "devDependencies": {
     "electron": "^29.3.0"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
   }
 }
